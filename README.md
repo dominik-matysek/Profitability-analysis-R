@@ -22,3 +22,9 @@ in 1995. Calculate the relative precision of the estimate and verify whether we 
 
 5. Can it be assumed that the company's average profitability improved in 1995 compared to 1994? (formulate and verify the appropriate hypothesis with significance level α = 0.05)
 
+Created by: 
+dominik-matysek
+rixis321
+dbartoszp
+Kil85
+piotr-wilk
